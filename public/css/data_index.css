@@ -1,0 +1,55 @@
+/* File: https://d3fyej7rnbpf4o.cloudfront.net/app/assets/css/data/index.css
+   Compiled at: 2017-12-23 19:03:59 
+================================ */
+.company_description {
+    min-width: 400px;
+    text-align: left;
+}
+
+/* Trial pagination */
+.paging_trial_pagination .paginate_numbers a.paginate_button.paginate_active {
+	background-color: #36a9e1 !important;
+}
+
+.paging_trial_pagination .paginate_numbers a.paginate_button.paginate_button_disabled,
+.paging_trial_pagination a.paginate_button.paginate_button_disabled.first,
+.paging_trial_pagination a.paginate_button.paginate_button_disabled.previous,
+.paging_trial_pagination a.paginate_button.paginate_button_disabled.next,
+.paging_trial_pagination a.paginate_button.paginate_button_disabled.last {
+    color: #e5e7eb;
+}
+
+.paging_trial_pagination {
+	height: 22px;
+	line-height: 22px;
+}
+.paging_trial_pagination a:active {
+	outline: none
+}
+.paging_trial_pagination a:hover {
+	text-decoration: none;
+}
+
+.paging_trial_pagination a.paginate_button,
+.paging_trial_pagination a.paginate_active {
+	border: 1px solid #aaa;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 2px 5px;
+	margin: 0 3px;
+	cursor: pointer;
+	*cursor: hand;
+	color: #333;
+}
+
+.paging_trial_pagination a.paginate_button {
+	background-color: #ddd;
+}
+
+.paging_trial_pagination a.paginate_button:hover {
+	background-color: #ccc;
+	text-decoration: none !important;
+}
+
+

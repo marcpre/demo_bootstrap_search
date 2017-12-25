@@ -1,0 +1,337 @@
+/* ------------------------------
+ * -- Main Global Styling -------
+ * ------------------------------ */
+/*//Pendo Customizations // */
+.\_pendo-guide-content\_{
+  padding:15px;
+}
+
+.mm-pendo-container{
+  padding:5px;
+  box-shadow:none;
+  -webkit-box-shadow:none;
+  -moz-box-shadow:none;
+}
+.\_pendo-guide-content\_ h3{
+  font-size:20px;
+  font-weight:500;
+  margin-top:5px;
+  margin-bottom:15px;
+}
+.mm-pendo-container p{
+  font-size:16px;
+  color:#666666;
+}
+
+.mm-pendo-container .\_pendo-guide-next\_{
+  margin-top:10px;
+}
+.\_pendo-close-guide\_{
+font-weight:200;
+}
+
+#\_pendo\_g\_nObZCnzwlHk6ZyormUIxdwODSH8{
+display:none;}
+
+#\_pendo\_g\_Y3YakMJVtUliCYwLVHHf0EayQLM .\_pendo-guide-container\_{
+  border:0;
+}
+
+#\_pendo\_g\_Y3YakMJVtUliCYwLVHHf0EayQLM .\_pendo-close-guide\_{
+  color:#ffffff;
+}
+
+#\_pendo\_g\_Y3YakMJVtUliCYwLVHHf0EayQLM .\_pendo-guide-content\_,
+#\_pendo\_g\_nObZCnzwlHk6ZyormUIxdwODSH8 .\_pendo-guide-content\_,
+#\_pendo\_g\_XzzFZFVHryghOngiqOuBtx\_DIJs .\_pendo-guide-content\_,
+#\_pendo\_g\_Fkzgb-W2AN3c8cs4n4cnzvpq7e0 .\_pendo-guide-content\_{
+  background-color:#00BCD4;
+  color:#ffffff;
+  font-size:12px;
+  text-transform:uppercase;
+  font-weight:600;
+}
+#\_pendo\_g\_Y3YakMJVtUliCYwLVHHf0EayQLM .\_pendo-guide-container,
+#\_pendo\_g\_nObZCnzwlHk6ZyormUIxdwODSH8 .\_pendo-guide-container\_,
+#\_pendo\_g\_XzzFZFVHryghOngiqOuBtx\_DIJs .\_pendo-guide-container\_,
+#\_pendo\_g\_Fkzgb-W2AN3c8cs4n4cnzvpq7e0 .\_pendo-guide-container\_{
+  box-shadow:none;
+  -webkit-box-shadow:none;
+  -moz-box-shadow:none;
+  border:0;
+  border-radius:0;
+}
+#\_pendo\_g\_nObZCnzwlHk6ZyormUIxdwODSH8 .\_pendo-close-guide\_,
+#\_pendo\_g\_XzzFZFVHryghOngiqOuBtx\_DIJs .\_pendo-close-guide\_,
+#\_pendo\_g\_Fkzgb-W2AN3c8cs4n4cnzvpq7e0 .\_pendo-close-guide\_{
+  display:none;
+}
+
+#\_pendo\_g\_XzzFZFVHryghOngiqOuBtx\_DIJs .\_pendo-guide-arrow-top\_{
+  border-bottom-color:#00BCD4;
+}
+#\_pendo\_g\_Y3YakMJVtUliCYwLVHHf0EayQLM .\_pendo-guide-arrow-right\_,
+#\_pendo\_g\_nObZCnzwlHk6ZyormUIxdwODSH8 .\_pendo-guide-arrow-right\_,
+#\_pendo\_g\_Fkzgb-W2AN3c8cs4n4cnzvpq7e0 .\_pendo-guide-arrow-right\_{
+  border-left-color:#00BCD4;
+}
+#\_pendo\_g\_Y3YakMJVtUliCYwLVHHf0EayQLM .\_pendo-guide-arrow-border-right\_,
+#\_pendo\_g\_XzzFZFVHryghOngiqOuBtx\_DIJs .\_pendo-guide-arrow-border-right\_,
+#\_pendo\_g\_Fkzgb-W2AN3c8cs4n4cnzvpq7e0 .\_pendo-guide-arrow-border-right\_{
+  border-left-color:transparent;
+}
+.\_pendo-guide\_ {
+  /* -- Overarching settings for all guides -- */
+}
+
+.\_pendo-guide-container\_ {
+  box-shadow:none;
+  -webkit-box-shadow:none;
+  -moz-box-shadow:none;
+  border:1px solid #ccc;
+  border-radius:4px;
+}
+
+.\_pendo-guide-container\_ .\_pendo-guide-content\_ {
+  /* -- Content area -- use for font attributes, padding, etc. */
+}
+
+
+/* ------------------------------
+ * -- Lightbox Specific Styling -
+ * ------------------------------ */
+
+.\_pendo-guide-lb\_ {
+  /* -- Overarching settings for Lightbox -- */
+}
+
+.\_pendo-guide-lb\_ .\_pendo-guide-container\_ {
+  /* -- Guide border, shadow, background, etc. -- */
+}
+
+.\_pendo-guide-lb\_ .\_pendo-guide-container\_ .\_pendo-guide-content\_ {
+  /* -- Content area -- use for font attributes, padding, etc. */
+}
+
+.\_pendo-backdrop\_ {
+  /* The backdrop displayed behind lightboxes */
+}
+
+
+/* ------------------------------
+ * -- Tooltip Specific Styling --
+ * ------------------------------ */
+
+.\_pendo-guide-tt\_ {
+  /* Overarching settings for tooltip */
+}
+
+.\_pendo-guide-tt\_ .\_pendo-guide-container\_ {
+  /* -- Guide border, shadow, background, etc. -- */
+}
+
+.\_pendo-guide-tt\_ .\_pendo-guide-container\_ .\_pendo-guide-content\_ {
+  /* -- Content area -- use for font attributes, padding, etc. */
+}
+
+/* -- Pointer on the edge of the tooltip -- */
+.\_pendo-guide-arrow\_ {
+}
+
+.\_pendo-guide-arrow-top\_ {
+}
+
+.\_pendo-guide-arrow-left\_ {
+}
+
+.\_pendo-guide-arrow-right\_ {
+}
+
+.\_pendo-guide-arrow-bottom\_ {
+}
+
+.\_pendo-guide-arrow-border-top\_ {
+}
+
+.\_pendo-guide-arrow-border-left\_ {
+}
+
+.\_pendo-guide-arrow-border-right\_ {
+}
+
+.\_pendo-guide-arrow-border-bottom\_ {
+}
+
+
+/* ------------------------------
+ * -- Mobile Lightbox Styling ---
+ * ------------------------------ */
+
+.\_pendo-guide-mobile-lb\_ {
+  /* Overarching settings for Mobile Lightbox */
+}
+
+.\_pendo-guide-mobile-lb\_ .\_pendo-guide-container\_ {
+  /* -- Guide border, shadow, background, etc. -- */
+}
+
+.\_pendo-guide-mobile-lb\_ .\_pendo-guide-container\_ .\_pendo-guide-content\_ {
+  /* -- Content area -- use for font attributes, padding, etc. */
+}
+
+/* ------------------------------
+ * -- Mobile Tooltip Styling ---
+ * ------------------------------ */
+ .\_pendo-guide-mobile-tt\_ {
+  /* Overarching settings for mobile tooltip */
+}
+
+.\_pendo-guide-mobile-tt\_ .\_pendo-guide-container\_ {
+  /* -- Guide border, shadow, background, etc. -- */
+}
+
+.\_pendo-guide-mobile-tt\_ .\_pendo-guide-container\_ .\_pendo-guide-content\_ {
+  /* -- Content area -- use for font attributes, padding, etc. */
+}
+
+
+/* ------------------------------
+ * -- Launcher Styling ----------
+ * ------------------------------ */
+
+.\_pendo-launcher\_ {
+  /* Overarching settings for Launcher */
+}
+
+.\_pendo-launcher\_ .\_pendo-guide-container\_ {
+  /* -- Launcher border, shadow, background, etc. -- */
+  /* -- (uses tooltip styles by default) -- */
+}
+
+.\_pendo-launcher\_ .\_pendo-launcher-content\_ {
+  /* -- Content area -- use for font attributes, padding, etc. */
+}
+
+.\_pendo-launcher\_ .\_pendo-launcher-header\_ {
+  /* -- Launcher header area -- */
+}
+
+.\_pendo-launcher\_ .\_pendo-launcher-header\_ img {
+  /* -- Launcher header area image styles -- */
+}
+
+.\_pendo-launcher\_ .\_pendo-launcher-header\_ .\_pendo-launcher-title\_ {
+  /* -- Launcher header area text styles -- */
+}
+
+.\_pendo-launcher\_ .\_pendo-launcher-header\_ .\_pendo-launcher-search-box\_ {
+  /* -- Launcher search area (if enabled) -- */
+}
+
+.\_pendo-launcher\_ .\_pendo-launcher-header\_ .\_pendo-launcher-search-box\_ input[type='text'] {
+  /* -- Launcher search area text box -- */
+}
+
+.\_pendo-launcher\_ .\_pendo-launcher-guide-listing\_ {
+  /* -- Launcher guide listing area -- */
+}
+
+.\_pendo-launcher\_ .\_pendo-launcher-guide-listing\_ .\_pendo-launcher-item\_ {
+  /* -- An individual item in the launcher guide listing -- */
+}
+
+.\_pendo-launcher\_ .\_pendo-launcher-footer\_ {
+  /* -- Launcher footer area -- */
+}
+
+.\_pendo-launcher-badge\_ {
+  /* -- Styles for the launcher badge -- */
+}
+
+/* -- Styles for launcher badge orientations -- */
+.\_pendo-launcher-badge-bottom-right\_ {
+}
+
+.\_pendo-launcher-badge-bottom-left\_ {
+}
+
+.\_pendo-launcher-badge-top-right\_ {
+}
+
+.\_pendo-launcher-badge-top-left\_ {
+}
+
+/* -- Styles for launcher orientations -- */
+.\_pendo-launcher-bottom-right\_ {
+}
+
+.\_pendo-launcher-bottom-left\_ {
+}
+
+.\_pendo-launcher-top-right\_ {
+}
+
+.\_pendo-launcher-top-left\_ {
+}
+
+
+/* ------------------------------
+ * -- Additional Global Styling -
+ * ------------------------------ */
+
+.\_pendo-close-guide\_ {
+  /* -- The dismiss guide button displayed in the corner of every guide -- */
+}
+
+.\_pendo-badge\_ {
+  /* -- Styles for badges -- */
+}
+
+
+/* ------------------------------
+ * -- Your Custom Classes/IDs ---
+ * ------------------------------ */
+@-webkit-keyframes pulse {
+    0% { -webkit-transform: scale(1); }	
+	50% { -webkit-transform: scale(1.1); }
+    100% { -webkit-transform: scale(1); }
+}
+@-moz-keyframes pulse {
+    0% { -moz-transform: scale(1); }	
+	50% { -moz-transform: scale(1.1); }
+    100% { -moz-transform: scale(1); }
+}
+@-o-keyframes pulse {
+    0% { -o-transform: scale(1); }	
+	50% { -o-transform: scale(1.1); }
+    100% { -o-transform: scale(1); }
+}
+@keyframes pulse {
+    0% { transform: scale(1); }	
+	50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+.\_pendo-badge\_{
+  	-webkit-animation-duration: 1.8s;
+	   -moz-animation-duration: 1.8s;
+	     -o-animation-duration: 1.8s;
+	        animation-duration: 1.8s;
+	-webkit-animation-fill-mode: both;
+	   -moz-animation-fill-mode: both;
+	     -o-animation-fill-mode: both;
+	        animation-fill-mode: both;
+  -webkit-animation-name: pulse;
+	-moz-animation-name: pulse;
+	-o-animation-name: pulse;
+	animation-name: pulse;
+  animation-iteration-count: infinite;
+  z-index: 100;
+  
+}
+
+.\_pendo-badge\_.triggered{
+  animation-iteration-count: 0;
+}
+
+
